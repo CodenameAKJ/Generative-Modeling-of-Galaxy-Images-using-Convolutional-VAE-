@@ -1,0 +1,2 @@
+model_checkpoint_path: "kl=0.1,rec=1,ep=10,sub,mse"
+all_model_checkpoint_paths: "kl=0.1,rec=1,ep=10,sub,mse"
