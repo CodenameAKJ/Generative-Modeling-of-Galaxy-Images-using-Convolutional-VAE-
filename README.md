@@ -13,7 +13,7 @@ This latent space forms the foundation for **efficient data compression** and **
 |--------------------|---------------------------------------------------|---------------------------------------------------------------------------|
 | **Data Pipeline**  |  Complete (Loading, Normalization, Batching)     | N/A                                                                       |
 | **VAE Model**      |  Complete (Custom CNN Encoder/Decoder)           | N/A                                                                       |
-| **Training **       |  Complete (Loss minimization & Latent space adherence) | N/A                                                                 |
+| **Training**       |  Complete (Loss minimization & Latent space adherence) | N/A                                                                 |
 | **Hyper parameter tuning**       | In Progress                        | N/A                                                                 |
 | **Anomaly Scoring**|  In Progress                                     | Implement calculation of anomaly scores using reconstruction loss.        |
 
